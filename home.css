@@ -1,0 +1,19 @@
+h1{
+color:black;
+font-family:Arial;
+font-size:40px;
+}
+h2{
+color:white;
+background:green;
+border-radius:10px;
+font-family:Arial;
+font-size:20px;
+padding:5px;
+}
+li{font-family:Arial;
+
+}
+table{
+background:url(Background.jpg) no-repeat;
+}
